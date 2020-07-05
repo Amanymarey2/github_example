@@ -1,1 +1,1 @@
-# github_example
+# IBM Capstone project
